@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7FE894D-4C25-49E9-8B6A-68EC03BFF76D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68D98EA6-797A-46F2-A35B-5A482C930B70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenInAppProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "apiloading()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68D98EA6-797A-46F2-A35B-5A482C930B70 - f0140169f937437b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OpenInAppProject.Analytics, OpenInAppProject.DataError&gt;) -&gt; () in OpenInAppProject.ViewController.apiloading() -&gt; ()"
+                  moduleName = "OpenInAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshwardhansharma/Documents/OpenInAppProject/OpenInAppProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1618">
+               </Location>
+               <Location
+                  uuid = "68D98EA6-797A-46F2-A35B-5A482C930B70 - 20acbb4689ccf00d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;OpenInAppProject.Analytics, OpenInAppProject.DataError&gt;) -&gt; () in OpenInAppProject.ViewController.apiloading() -&gt; ()"
+                  moduleName = "OpenInAppProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshwardhansharma/Documents/OpenInAppProject/OpenInAppProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
